@@ -1,0 +1,79 @@
+  .body{
+        background-color: rgb(225, 14, 123);
+        -ms-layout-grid-type: loose;
+        -ms-layout-grid-char: auto;
+        -ms-layout-grid-mode: line;
+        -ms-layout-grid-line: auto;
+    }
+    .crd{
+        box-shadow: inset;
+        max-width: 99000px;
+        width: 100%;
+    }
+    .card-title{
+        color: rgb(230, 194, 15);
+        font-weight: bold;
+        font-style: italic;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: 200px;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .card-text{
+        color: rgb(8, 173, 244);
+        font-size: 100px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        margin-top: 0;
+    }
+    .p1,.p2,.p3,.p4,.p4,.p5,.p6,.p7,.p8{
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+    }
+    .imga{
+       width: 500px; 
+    }
+.btn-btn-primary{
+background-color: red;
+        color: white;
+       
+    font-size: 50px;
+    height: 80px;
+    width: 400px;
+                 border: none;
+                 border-radius: 5px;
+                 margin-top: 5px;
+                 margin-left: 15px;
+                 margin-bottom: 15px;
+                 transition: background-color 0.15s,color 0.15s;
+
+}
+.btn-btn-primary:hover{
+     background-color: rgb(16, 16, 16);
+    color: white;
+}
+.image{
+    width: 1500px;
+}
+ .imga{
+    width: 500px;
+    margin-left: 500px;
+    
+ }
+ .int{
+    width: 500px;
+    height: 50px;
+font-size: 20px;
+ }
+ .img{
+    width: 500px;
+    margin-left: 200px;
+}
+.im{
+    width: 1480px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
